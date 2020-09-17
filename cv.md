@@ -30,7 +30,7 @@ I'm an enthusiastic and detail-oriented Junior Frontend Software Engineer seekin
  * SCSS
  * Bootstrap 
 
-## Education Zaporizhia State Engineering Academy 2012– 2017 
+## Education: Zaporizhia State Engineering Academy 2012– 2017 
 
 *Bachelor's degree: Electrical Engineering*
 
