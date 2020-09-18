@@ -1,0 +1,191 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,300;1,400&display=swap");
+* {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+*,
+*:before,
+*:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+:focus,
+ :active {
+    outline: none;
+}
+
+a:focus,
+a:active {
+    outline: none;
+}
+
+aside,
+nav,
+footer,
+header,
+section {
+    display: block;
+}
+
+html,
+body {
+    height: 100%;
+    min-width: 320px;
+}
+
+body {
+    line-height: 1;
+    font-size: 14px;
+    font-family: "Lato";
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+input,
+button,
+textarea {
+    font-family: "Lato";
+}
+
+input::-ms-clear {
+    display: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:-moz-focus-inner {
+    padding: 0;
+    border: 0;
+}
+
+a,
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+ul li {
+    list-style: none;
+}
+
+img {
+    vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+
+.wrapper {
+    overflow: hidden;
+    min-height: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    -webkit-box-shadow: 0px 3px 5px 3px rgba(0, 0, 0, 0.17);
+    -moz-box-shadow: 0px 3px 5px 3px rgba(0, 0, 0, 0.17);
+    box-shadow: 0px 3px 5px 3px rgba(0, 0, 0, 0.17);
+    margin-top: 1em;
+}
+
+.header {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    align-items: center;
+    margin-bottom: 3em;
+}
+
+.header_logo {
+    width: 100%;
+    display: grid;
+    justify-items: center;
+}
+
+.header_name {
+    width: 100%;
+    display: grid;
+    justify-items: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.main {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    margin: 0 5em 0 5em;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 34px;
+    line-height: 28px;
+    font-weight: 800;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 800;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: 600;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 400;
+}
+
+.experience {
+    padding-right: 5em;
+}
+
+.main_experience {
+    margin: 2em 0 2em 0;
+}
+
+.skills li {
+    margin-left: 1em;
+}
+
+li {
+    margin: 0.5em 0 0.5em 0;
+}
+
+.italic {
+    font-style: italic;
+    font-weight: 500;
+}
+
+span {
+    font-weight: 600;
+}
+
+a:hover {
+    color: tomato;
+}
+
+.date {
+    color: #73808D;
+}
