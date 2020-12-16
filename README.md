@@ -1,2 +1,2 @@
-https://ShattsIllia.github.io/rsschool-cv/cv
-https://ShattsIllia.github.io/rsschool-cv/
+https://ShattsIllia.github.io/shatts-illia-cv/cv
+https://ShattsIllia.github.io/shatts-illia-cv/
